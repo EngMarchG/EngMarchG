@@ -6,7 +6,8 @@
 - 📫 Connect with me on LinkedIn or Twitter!
 
 Experienced with classification, NLP, time series and deep learning architectures. Highly familiar with web dev too.
-Building block website: [Interactive website using react]http://robofriends.atwebpages.com/
+
+Building block website: [Interactive website using react](http://robofriends.atwebpages.com/)
 
 Proof of concept website for deploying ML models: [Face detection](https://facedetectappli.herokuapp.com/)
 
