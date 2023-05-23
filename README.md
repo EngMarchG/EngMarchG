@@ -1,7 +1,6 @@
 ### Hi there! My name is Marchellino, a data scientist with an extensive skillset.
 
-- 🔭 I’m currently working on TensorFlow/PyTorch Projects!
-- 🌱 I’m currently learning how to deploy models!
+- 🌱 I’m currently building meaningful projects!
 - 👯 I’m looking to collaborate on any interesting data related projects!
 - 📫 Connect with me on LinkedIn or Twitter!
 
