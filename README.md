@@ -6,8 +6,8 @@
 
 Experienced with classification, NLP, time series and deep learning architectures. Highly familiar with web dev too.
 
-Building block website: [Interactive website using react](http://robofriends.atwebpages.com/)
+Building block website: [Interactive website using react - Expired](http://robofriends.atwebpages.com/)
 
-Proof of concept website for deploying ML models: [Face detection](https://facedetectappli.herokuapp.com/)
+Proof of concept website for deploying ML models: [Face detection - Taken down after heroku changes](https://facedetectappli.herokuapp.com/)
 
 [![EngMarchG's GitHub stats](https://readmestats.999857.xyz/api?username=EngMarchG&show_icons=true&theme=dark)](https://github.com/EngMarchG/github-readme-stats)
