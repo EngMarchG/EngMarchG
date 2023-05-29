@@ -9,7 +9,7 @@ Check out my latest release [Fsg-Pp](https://github.com/EngMarchG/Fsg-Pp/)!
 It downloads images that suitable as Profile Pictures and crops them for you!
 
 ## Tech Stack
-<img src='https://img.shields.io/badge/-Pytorch-grey?logo=pytorch' height=30/> <img src='https://img.shields.io/badge/-Tensorflow-grey?logo=tensorflow' height=30/> <img src='https://img.shields.io/badge/-Pandas-grey?logo=pandas' height=30/> <img src='https://img.shields.io/badge/-ScikitLearn-grey?logo=scikitlearn' height=30/> <img src='https://img.shields.io/badge/-Html5-grey?logo=html5' height=30/> <img src='https://img.shields.io/badge/-Javascript-grey?logo=javascript' height=30/>
+<img src='https://img.shields.io/badge/-Pytorch-grey?logo=pytorch' height=30/> <img src='https://img.shields.io/badge/-Tensorflow-grey?logo=tensorflow' height=30/> <img src='https://img.shields.io/badge/-Pandas-grey?logo=pandas' height=30/> <img src='https://img.shields.io/badge/-ScikitLearn-grey?logo=scikitlearn' height=30/> <img src='https://img.shields.io/badge/-Html5-grey?logo=html5' height=30/> <img src='https://img.shields.io/badge/-CSS-grey?logo=css3' height=30/> <img src='https://img.shields.io/badge/-Javascript-grey?logo=javascript' height=30/> 
 
 ## Miscellaneous
 Proof of concept website for deploying ML models: [Face detection - Taken down after heroku changes](https://facedetectappli.herokuapp.com/)
