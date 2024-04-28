@@ -6,7 +6,7 @@
 
 <!-- Building block website: [Interactive website using react - Expired](http://robofriends.atwebpages.com/) -->
 Check out my latest release [Fsg-Pp](https://github.com/EngMarchG/Fsg-Pp/)!   
-It uses ML models to classify profile picture suitable images and auto-crops them for you!
+It uses deep learning models to classify suitable profile picture images and even auto-crops them for you!
 
 ## Tech Stack
 <img src='https://img.shields.io/badge/-Pytorch-grey?logo=pytorch' height=30/> <img src='https://img.shields.io/badge/-Tensorflow-grey?logo=tensorflow' height=30/> <img src='https://img.shields.io/badge/-Pandas-grey?logo=pandas' height=30/> <img src='https://img.shields.io/badge/-ScikitLearn-grey?logo=scikitlearn' height=30/> <img src='https://img.shields.io/badge/-Html5-grey?logo=html5' height=30/> <img src='https://img.shields.io/badge/-CSS-grey?logo=css3' height=30/> <img src='https://img.shields.io/badge/-Javascript-grey?logo=javascript' height=30/> 
