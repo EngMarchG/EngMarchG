@@ -1,4 +1,4 @@
-### Hi there! I'm a data scientist with an extensive skillset.
+### Hello there! I'm a structural engineer specialized in computational mechanics, data science and machine learning and deep learning.
 
 - 🌱 I’m currently building meaningful projects!
 - 👯 I’m looking to collaborate on any interesting data related projects!
