@@ -1,4 +1,4 @@
-### Hello there! I'm a structural engineer specialized in computational mechanics, data science and machine learning and deep learning.
+### Hello there! I'm a structural engineer specialized in computational mechanics, with skills in MLOps and deep learning.
 
 - 🌱 I’m currently building meaningful projects!
 - 👯 I’m looking to collaborate on any interesting data related projects!
