@@ -3,7 +3,7 @@
 - Apparently somewhat of a software dev (looking at you csi for your scarce api documentation)
 - AI dabbler
 
-Ps: Someone explain why I randomly get teleported into the future 🤔
+Ps: Someone explain why I randomly get teleported into the future when I get into my coding cycle 🤔
 
 ## Featured Projects
 [Fsg-Pp](https://github.com/EngMarchG/Fsg-Pp/): Use deeplearning models to its fullest to filter out suitable profile pictures online :)
