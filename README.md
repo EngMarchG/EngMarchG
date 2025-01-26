@@ -1,7 +1,7 @@
 ## About Me
 - Structural engineer specialized in computational mechanics
 - Apparently somewhat of a software dev (looking at you csi for your scarce api documentation)
-- AI enthusiast & active Practitioner
+- AI enthusiast & active practitioner
 
 Ps: Someone explain why I randomly get teleported into the future when I get into my coding cycle 🤔
 
